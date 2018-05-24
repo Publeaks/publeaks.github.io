@@ -1,7 +1,5 @@
-## Publeaks Github pages
-
-Veilig en anoniem informatie delen met de pers via [Publeaks](https://publeaks.nl).
-
-### Repo pages
+---
+title: Veilig en anoniem informatie delen met de pers
+---
 
 * [Publeaks mobile protoype](https://publeaks.github.io/frontend/mobile.html)
